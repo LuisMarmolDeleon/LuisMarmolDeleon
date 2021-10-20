@@ -21,7 +21,9 @@ Hola! Soy Luis Alberto Marmol De Leon, tengo 19 años, resido en Santo Domingo, 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisMarmolDeleon&theme=dark&show_icons=true&count_private=true&include_all_commits)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMarmolDeleon&theme=dark&show_icons=true&layout=compact&count_private=true&include_all_commits)](https://github.com/anuraghazra/github-readme-stats)
 
-
+***
+## 📖 Otros Idiomas:
+- [English](readme.eng.md)
 <!--
 **LuisMarmolDeleon/LuisMarmolDeleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
