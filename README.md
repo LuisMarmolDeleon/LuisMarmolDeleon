@@ -6,6 +6,8 @@ Hola! Soy Luis Alberto Marmol De Leon, tengo 19 años, resido en Santo Domingo, 
 - Java
 - SQL
 - Python
+- PHP
+- .NET
 ***
 ## 💬 Habilidades personales
 - Organizado.
